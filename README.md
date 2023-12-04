@@ -8,7 +8,5 @@ Currently, I'm working on my react skills and I look forward to mastering other 
 
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manj0tBenipal)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manj0tBenipal&layout=compact)
 
